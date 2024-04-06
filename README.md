@@ -53,7 +53,7 @@ These insights provide valuable information for strategic decision-making, inclu
 
 
 <div style="text-align:center;">
-    <img src="path/to/your/dashboard/image.png" alt="Dashboard" />
+    <img src="https://github.com/Navjotkhatri/E-Commerce_Analysis_Using_Tableau/blob/main/Screenshot%202024-04-06%20152808.png" alt="Dashboard" />
 </div>
 
 

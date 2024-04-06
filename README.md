@@ -51,6 +51,8 @@ The Tableau ecommerce project focuses on analyzing and visualizing key aspects o
 
 These insights provide valuable information for strategic decision-making, including targeted marketing campaigns, inventory management, and product bundling strategies to enhance customer satisfaction and maximize revenue.
 
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Connect-red)](https://public.tableau.com/app/profile/navjot.khatri/viz/E-CommerceInsightsUnveilingTrendsMetrics/E-CommerceInsights)
+
 
 <div style="text-align:center;">
     <img src="https://github.com/Navjotkhatri/E-Commerce_Analysis_Using_Tableau/blob/main/Screenshot%202024-04-06%20152808.png" alt="Dashboard" />
